@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Member
+comment1.params=yom\ a\ n
+comment1.target=Member(int,\ int,\ java.lang.String)
+comment2.params=p
+comment2.target=double\ applyDiscount(double)
+numComments=3

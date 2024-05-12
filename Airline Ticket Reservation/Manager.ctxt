@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Manager
+comment1.params=
+comment1.target=Manager()
+comment2.params=
+comment2.target=void\ createFlights()
+comment3.params=origin\ destination
+comment3.target=void\ displayAvailableFlights(java.lang.String,\ java.lang.String)
+comment4.params=flightNumber
+comment4.target=lab1.Flight\ getFlight(int)
+comment5.params=flightNumber\ p
+comment5.target=void\ bookSeat(int,\ Passenger)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

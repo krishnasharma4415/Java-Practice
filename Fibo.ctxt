@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Fibo
+comment1.params=
+comment1.target=Fibo()
+comment2.params=
+comment2.target=void\ read()
+comment3.params=n
+comment3.target=int\ fibo(int)
+comment4.params=
+comment4.target=void\ display()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
