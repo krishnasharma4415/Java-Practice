@@ -14,7 +14,7 @@ class Student
 
     public void setMarks(int marks) {
         this.marks = marks;
-    }
+    }   
 
     public void viewMarks() {
         if (marks == -1) {
@@ -26,6 +26,10 @@ class Student
 
     public String getName() {
         return name;
+    }
+
+    public int getMarks() {
+        return marks;
     }
 }
 
@@ -49,6 +53,9 @@ public class school
         Scanner scanner = new Scanner(System.in);
 
         Student student1 = new Student("Krishna Sharma", 128);
+        Student student2 = new Student("Krishna Sharma", 127);
+        Student student3 = new Student("Krishna Sharma", 126);
+        Student student4 = new Student("Krishna Sharma", 125);
         Teacher teacher = new Teacher("teacher");
 
         System.out.print("Enter marks for " + student1.getName() + ": ");
