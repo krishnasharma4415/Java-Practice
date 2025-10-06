@@ -1,0 +1,10 @@
+Atlanta	3.48%
+Boston	13.04%
+Chicago	1.63%
+Denver	1.09%
+Houston	1.09%
+Los Angeles	34.78%
+Miami	8.70%
+New York	26.09%
+San Diego	6.52%
+Seattle	3.26%

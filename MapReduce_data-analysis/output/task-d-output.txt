@@ -1,0 +1,10 @@
+Atlanta	1
+Boston	1
+Chicago	1
+Denver	1
+Houston	1
+Los Angeles	1
+Miami	1
+New York	1
+San Diego	1
+Seattle	1

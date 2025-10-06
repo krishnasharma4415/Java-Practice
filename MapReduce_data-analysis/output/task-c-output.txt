@@ -1,0 +1,10 @@
+Atlanta	160.0
+Boston	600.0
+Chicago	75.0
+Denver	50.0
+Houston	50.0
+Los Angeles	1600.0
+Miami	400.0
+New York	1200.0
+San Diego	300.0
+Seattle	150.0
